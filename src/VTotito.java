@@ -864,7 +864,7 @@ public class VTotito extends javax.swing.JFrame {
 
     private void jMenuItem1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem1ActionPerformed
         
-    References.goToURL("https://www.paypal.com/donate?business=46K4JDUK7BCFS&no_recurring=0&currency_code=USD");
+    References.goToURL("https://paypal.me/EAjset?locale.x=es_XC");
     }//GEN-LAST:event_jMenuItem1ActionPerformed
 
     /**
